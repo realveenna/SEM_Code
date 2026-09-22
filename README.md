@@ -4,7 +4,6 @@
 
 ![workflow](https://github.com/realveenna/SEM_Code/actions/workflows/main.yml/badge.svg)
 
-[![LICENSE](https://img.shields.io/github/license/realveenna/devops.svg?style=flat-square)](https://github.com/realveenna/devops/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/realveenna/SEM_Code.svg?style=flat-square)](https://github.com/realveenna/SEM_Code/blob/main/LICENSE)
 
-[![Releases](https://img.shields.io/github/release/realveenna/devops/all.svg?style=flat-square)](https://github.com/realveenna/devops/releases)
-
+[![Releases](https://img.shields.io/github/release/realveenna/SEM_Code/all.svg?style=flat-square)](https://github.com/realveenna/SEM_Code/releases)
